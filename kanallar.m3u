@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Ulusal",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Ulusal",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Ulusal",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Ulusal",TRT Spor
+https://tv-trtspor.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Ulusal",ATV
+https://trkvz-live.ercdn.net/atv/atv.m3u8
+
+#EXTINF:-1 group-title="Ulusal",A Haber
+https://trkvz-live.ercdn.net/ahaber/ahaber.m3u8
+
+#EXTINF:-1 group-title="Ulusal",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+#EXTINF:-1 group-title="Ulusal",CNN Türk
+https://demiroren-live.daioncdn.net/cnnturk/cnnturk.m3u8
+
+#EXTINF:-1 group-title="Ulusal",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+
+#EXTINF:-1 group-title="Ulusal",Habertürk TV
+https://ciner-live.daioncdn.net/haberturk/haberturk.m3u8
+
+#EXTINF:-1 group-title="Ulusal",TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 group-title="Ulusal",TV8.5
+https://tv8-live.daioncdn.net/tv8_5/tv8_5.m3u8
+
+#EXTINF:-1 group-title="Ulusal",NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+
+#EXTINF:-1 group-title="Ulusal",Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+
+#EXTINF:-1 group-title="Ulusal",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
