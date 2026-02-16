@@ -1,99 +1,91 @@
-#EXTM3U
+#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/tr.xml"
 
-# ===== ULUSAL =====
-
-#EXTINF:-1 tvg-id="TRT1.tr" group-title="Ulusal",TRT 1
+#EXTINF:-1 tvg-id="trt1.tr" group-title="Ulusal",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TRT2.tr" group-title="Ulusal",TRT 2
+#EXTINF:-1 tvg-id="trt2.tr" group-title="Ulusal",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="ATV.tr" group-title="Ulusal",ATV
-https://trkvz-live.ercdn.net/atv/atv.m3u8
-
-#EXTINF:-1 tvg-id="KanalD.tr" group-title="Ulusal",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-
-#EXTINF:-1 tvg-id="ShowTV.tr" group-title="Ulusal",Show TV
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-
-#EXTINF:-1 tvg-id="StarTV.tr" group-title="Ulusal",Star TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-
-#EXTINF:-1 tvg-id="FOX.tr" group-title="Ulusal",NOW TV
-https://nowtv-live.daioncdn.net/nowtv/nowtv.m3u8
-
-#EXTINF:-1 tvg-id="TV8.tr" group-title="Ulusal",TV8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-
-#EXTINF:-1 tvg-id="TV8_5.tr" group-title="Ulusal",TV8.5
-https://tv8-live.daioncdn.net/tv8_5/tv8_5.m3u8
-
-#EXTINF:-1 tvg-id="Kanal7.tr" group-title="Ulusal",Kanal 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-
-
-# ===== HABER =====
-
-#EXTINF:-1 tvg-id="TRTHaber.tr" group-title="Haber",TRT Haber
+#EXTINF:-1 tvg-id="trthaber.tr" group-title="Haber",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="CNNTurk.tr" group-title="Haber",CNN Türk
-https://demiroren-live.daioncdn.net/cnnturk/cnnturk.m3u8
-
-#EXTINF:-1 tvg-id="NTV.tr" group-title="Haber",NTV
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-
-#EXTINF:-1 tvg-id="HaberturkTV.tr" group-title="Haber",Habertürk
-https://ciner-live.daioncdn.net/haberturk/haberturk.m3u8
-
-#EXTINF:-1 tvg-id="AHaber.tr" group-title="Haber",A Haber
-https://trkvz-live.ercdn.net/ahaber/ahaber.m3u8
-
-#EXTINF:-1 tvg-id="TGRT.tr" group-title="Haber",TGRT Haber
-https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
-
-#EXTINF:-1 tvg-id="TV100.tr" group-title="Haber",TV100
-https://tv100-live.daioncdn.net/tv100/tv100.m3u8
-
-#EXTINF:-1 tvg-id="UlkeTV.tr" group-title="Haber",Ülke TV
-https://ulketv-live.daioncdn.net/ulketv/ulketv.m3u8
-
-#EXTINF:-1 tvg-id="Benguturk.tr" group-title="Haber",Bengü Türk
-https://benguturk-live.daioncdn.net/benguturk/benguturk.m3u8
-
-
-# ===== SPOR =====
-
-#EXTINF:-1 tvg-id="TRTSpor.tr" group-title="Spor",TRT Spor
+#EXTINF:-1 tvg-id="trtspor.tr" group-title="Spor",TRT Spor
 https://tv-trtspor.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TRTSporYildiz.tr" group-title="Spor",TRT Spor Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="atv.tr" group-title="Ulusal",ATV HD
+https://trkvz-live.ercdn.net/atvhd/atvhd.m3u8
 
-#EXTINF:-1 tvg-id="Aspor.tr" group-title="Spor",A Spor
-https://trkvz-live.ercdn.net/aspor/aspor.m3u8
+#EXTINF:-1 tvg-id="ahaber.tr" group-title="Haber",A Haber
+https://trkvz-live.ercdn.net/ahaber/ahaber.m3u8
 
-#EXTINF:-1 tvg-id="FBTV.tr" group-title="Spor",FB TV
-https://fbtv-live.daioncdn.net/fbtv/fbtv.m3u8
+#EXTINF:-1 tvg-id="a2tv.tr" group-title="Ulusal",A2 TV
+https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8
 
-#EXTINF:-1 tvg-id="SportsTV.tr" group-title="Spor",Sports TV
-https://sportstv-live.daioncdn.net/sportstv/sportstv.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" group-title="Ulusal",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
+#EXTINF:-1 tvg-id="teve2.tr" group-title="Ulusal",TV8.5
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 
-# ===== DİĞER =====
+#EXTINF:-1 tvg-id="showtv.tr" group-title="Ulusal",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" group-title="Belgesel",TRT Belgesel
+#EXTINF:-1 tvg-id="haberturk.tr" group-title="Haber",Habertürk TV
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+
+#EXTINF:-1 tvg-id="tv8.tr" group-title="Ulusal",TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-id="nowtv.tr" group-title="Ulusal",NOW TV (FOX)
+https://nowtv-live.daioncdn.net/nowtv/nowtv.m3u8
+
+#EXTINF:-1 tvg-id="star.tr" group-title="Ulusal",Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+
+#EXTINF:-1 tvg-id="ntv.tr" group-title="Haber",NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+
+#EXTINF:-1 tvg-id="kralpop.tr" group-title="Müzik",Kral Pop TV
+https://dogus-live.daioncdn.net/kralpop/kralpop.m3u8
+
+#EXTINF:-1 tvg-id="tv100.tr" group-title="Haber",TV100
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+
+#EXTINF:-1 tvg-id="halktv.tr" group-title="Haber",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1 tvg-id="tele1.tr" group-title="Haber",Tele1
+https://tele1-live.daioncdn.net/tele1/tele1.m3u8
+
+#EXTINF:-1 tvg-id="ulketv.tr" group-title="Haber",Ülke TV
+https://ulketv-live.ercdn.net/ulketv/ulketv.m3u8
+
+#EXTINF:-1 tvg-id="benguturk.tr" group-title="Haber",Bengü Türk
+https://benguturk-live.ercdn.net/benguturk/benguturk.m3u8
+
+#EXTINF:-1 tvg-id="tvnet.tr" group-title="Haber",TVNET
+https://tvnet-live.ercdn.net/tvnet/tvnet.m3u8
+
+#EXTINF:-1 tvg-id="24tv.tr" group-title="Haber",24 TV
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+
+#EXTINF:-1 tvg-id="360tv.tr" group-title="Ulusal",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+#EXTINF:-1 tvg-id="cnnturk.tr" group-title="Haber",CNN Türk
+https://demiroren-live.daioncdn.net/cnnturk/cnnturk.m3u8
+
+#EXTINF:-1 tvg-id="dreamturk.tr" group-title="Müzik",Dream Türk
+https://dogus-live.daioncdn.net/dreamturk/dreamturk.m3u8
+
+#EXTINF:-1 tvg-id="powerhd.tr" group-title="Müzik",Power HD
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="trtbelgesel.tr" group-title="Belgesel",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TRTCocuk.tr" group-title="Çocuk",TRT Çocuk
+#EXTINF:-1 tvg-id="trtcocuk.tr" group-title="Çocuk",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TRTMuzik.tr" group-title="Müzik",TRT Müzik
+#EXTINF:-1 tvg-id="trtmuzik.tr" group-title="Müzik",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="PowerTV.tr" group-title="Müzik",Power TV
-https://powertv-live.daioncdn.net/powertv/powertv.m3u8
-
-#EXTINF:-1 tvg-id="KralTV.tr" group-title="Müzik",Kral TV
-https://dogus-live.daioncdn.net/kraltv/kraltv.m3u8
